@@ -4,7 +4,7 @@ Github allows users to post websites for free but does not have an easy way to s
 
 # Pre-requisites
 
-a. Install pre-requisite programs using the command sudo apt install curl html2text grep gawk
+a. Install pre-requisite programs using the command sudo apt install curl html2text grep gawk sed
 
 b. Internet access to github from the installed machine.
 
