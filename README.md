@@ -12,7 +12,7 @@ b. Internet access to github from the installed machine.
 
 a. Install the files in a directory.
 
-b. Run ./getcommits.sh URL where URL is the commit page, eg https://github.com/repo-name/commits/master
+b. Run ./getcommits.sh URL where URL is the commit page, eg https://github.com/repo-name/commits/main or master if main/master is your main branch.
 
 c. You will get a tab delimited file finalresult.txt that has the ID and Date of Last Commit in YYYYMMDD format. Each ID has the last login date.
 
